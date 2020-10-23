@@ -14,4 +14,4 @@ Where `/path/to/your/images` is a path on your host system with the images you w
 The `DISPLAY` variable and the volumes `/tmp/.X11-unix`, `/tmp/.docker.xauth` allow your
 container to connect to your host's X server in an isolated way.
 
-More info on Xauth in container [here](http://wiki.ros.org/docker/Tutorials/GUI)
+More info on Xauth in docker containers can be found [here](http://wiki.ros.org/docker/Tutorials/GUI)
